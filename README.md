@@ -1,44 +1,56 @@
-# Ayhan Aydoğan — ASAYTECH
+# Ayhan Aydoğan
 
-AI automation and full-stack product developer focused on practical business outcomes: more qualified leads, less manual follow-up, and clearer operational visibility.
+**Founder @ ASAYTECH | Agentic AI & Digital Employee Architect**
 
-[![Website](https://img.shields.io/badge/Website-asaytech.com-111827?style=for-the-badge)](https://asaytech.com)
-[![Available for freelance](https://img.shields.io/badge/Freelance-Available-16a34a?style=for-the-badge)](mailto:ayhantkt@gmail.com)
+I design and build production-oriented AI automation systems and **Digital Employees** that can understand business context, use tools and APIs, work with company data under controlled permissions, and produce verifiable outcomes.
 
-## What I build
+[ASAYTECH](https://asaytech.com) · [LinkedIn](https://www.linkedin.com/in/ayhan-aydogan-247513151/) · [Engineering Portfolio](https://github.com/Asay60/ASAYTECH-Engineering-Portfolio)
 
-- AI-powered WhatsApp, sales, and customer follow-up automations
-- Multi-tenant SaaS products with Next.js, TypeScript, Supabase, and PostgreSQL
-- Python/FastAPI backends, background jobs, OCR, and document workflows
-- Payment, calendar, email, webhook, and third-party API integrations
-- Docker-based deployment, CI/CD, security controls, and production diagnostics
+## Focus
 
-## Featured projects
+- Agentic AI and AI Agent architectures
+- LLM integration, model routing and tool calling
+- Retrieval-Augmented Generation (RAG)
+- API orchestration and workflow automation
+- Self-hosted / local AI systems
+- Multi-tenant SaaS architecture
+- AI security, guardrails, verification and audit
+- Docker, VPS and production deployment
 
-### [CTWA Engine](https://github.com/Asay60/ctwa-engine)
+## Selected Engineering Case Studies
 
-Multi-tenant conversion engine that connects Meta Click-to-WhatsApp attribution, AI lead qualification, human handoff, outbound messaging, revenue signals, and ROAS reporting.
+### ELAI — AI Receptionist & Business Assistant
+WhatsApp-native multimodal AI receptionist with text, voice and vision, tool calling, queue-based execution, business operations and human handoff.
 
-`TypeScript` `Next.js` `Supabase` `WhatsApp Cloud API` `Meta CAPI` `Docker`
+**Verified:** 29 test files · **305/305 automated tests passed**.
 
-### [RandevuBot / CalendlyTR](https://github.com/Asay60/CalendlyTR)
+[View sanitized case study](https://github.com/Asay60/ASAYTECH-Engineering-Portfolio/tree/main/ELAI)
 
-Open-source appointment scheduling platform for the Turkish market with shareable booking pages, Google Calendar sync, email reminders, İyzico payments, teams, webhooks, routing forms, and tenant isolation.
+### CTWA Engine — AI WhatsApp Conversion & Attribution
+Multi-tenant system connecting Meta Click-to-WhatsApp campaigns with AI lead qualification, human handoff, conversion attribution and Meta CAPI.
 
-[Live UI demo](https://randevubot-portfolio.vercel.app)
+**Verified:** **163 automated tests passed** + full workspace typecheck passed.
 
-`Next.js` `TypeScript` `Supabase` `PostgreSQL RLS` `İyzico` `Resend`
+[View sanitized case study](https://github.com/Asay60/ASAYTECH-Engineering-Portfolio/tree/main/CTWA-Engine)
 
-### [ASAY Ledger AI](https://github.com/Asay60/asay-ledger-ai)
+### ASAYLEX — Privacy-First Legal-Tech AI
+KVKK-oriented document AI architecture with PII masking, masked-only AI/RAG boundaries, pgvector and controlled delivery.
 
-Accounting-operations platform for SMMM offices: document intake, OCR and AI review, taxpayer follow-up queues, reminders, reporting, and a full Docker Compose development stack.
+[View sanitized case study](https://github.com/Asay60/ASAYTECH-Engineering-Portfolio/tree/main/ASAYLEX)
 
-[Live UI demo](https://asay-ledger-ai-portfolio.vercel.app)
+### ASAY Ledger AI — AI-Assisted Accounting Operations
+Multi-tenant accounting workflow platform combining document intake, OCR, AI review, risk prioritization and accountant-controlled follow-up.
 
-`Python` `FastAPI` `Celery` `Redis` `PostgreSQL` `Next.js`
+**Verified CI:** backend tests, frontend typecheck/build and Playwright smoke tests passed.
 
-## Working style
+[View sanitized case study](https://github.com/Asay60/ASAYTECH-Engineering-Portfolio/tree/main/ASAY-Ledger-AI)
 
-I turn a business problem into a testable product flow, document the architecture, keep claims bounded to what is implemented, and ship with automated quality checks.
+## Engineering Stack
 
-Based in Tokat, Türkiye · Available for remote freelance and product-development work.
+`Python` · `FastAPI` · `TypeScript` · `Next.js` · `PostgreSQL` · `Redis/BullMQ` · `pgvector` · `Docker` · `Ollama` · `REST APIs` · `CI/CD`
+
+## Public / Private Boundary
+
+Commercial production source repositories remain private. The public portfolio contains only sanitized architecture, technical case studies and verified engineering evidence.
+
+Based in **Tokat, Türkiye** · Open to remote AI automation, AI product and integration work.
